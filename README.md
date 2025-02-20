@@ -1,7 +1,8 @@
 ## Hi there 👋
-🔭I'm developing a data analysis program for astronomical data. This program will help me find patterns and commonalities in large data sets, which would otherwise be time-consuming.
-💬 Ask me about space, physics and programming. 
-🌱Feel free to offer any advice. It will be well appreciated!
+🔭I'm developing a data analysis program for astronomical data. This program will help me find patterns and commonalities in large data sets, which would otherwise be time- 
+   consuming.
+</br>💬 Ask me about space, physics and programming. 
+</br>🌱Feel free to offer any advice. It will be well appreciated!
 <!--
 **Vah1n1/Vah1n1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
