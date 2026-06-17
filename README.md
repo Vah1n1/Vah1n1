@@ -1,6 +1,4 @@
 ## Hi there 👋
-🔭I'm developing a data analysis program for astronomical data. This program will help me find patterns and commonalities in large data sets, which would otherwise be time- 
-   consuming.
 </br>💬 Ask me about space, physics and programming. 
 </br>🌱Feel free to offer any advice. It will be well appreciated!
 <!--
